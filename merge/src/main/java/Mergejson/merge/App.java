@@ -15,7 +15,7 @@ import org.json.simple.parser.*;
 public class App {
 	public static void main(String[] args) {
 		String data_path = "/home/jayarap/Desktop/data/";
-		String merge_path = "/home/jayarap/Desktop/merge/";
+		String merge_path = "/home/jayarap/Desktop/mergedJson/";
 		try {
 			
 			JSONParser parser = new JSONParser();
